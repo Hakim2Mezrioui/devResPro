@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/developper-resaux-professional",
+            "outputPath": "dist/devResPro",
             "baseHref": "/devResPro/",
             "index": "src/index.html",
             "main": "src/main.ts",
