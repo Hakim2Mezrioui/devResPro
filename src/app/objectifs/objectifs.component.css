@@ -7,7 +7,7 @@
   height: 50vh;
   width: 100%;
   overflow: hidden;
-  background-image: url("/assets/images/objectifs.jpg");
+  background-image: url("./assets/images/objectifs.jpg");
   transform: skewY(-3deg);
   background-size: 100% 100%;
   background-position: center;
