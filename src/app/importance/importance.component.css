@@ -8,7 +8,7 @@
   height: 100vh;
   width: 50%;
   overflow: hidden;
-  background-image: url("./assets/images/important.jpg");
+  background-image: url("assets/images/important.jpg");
   transform: skewX(-10deg) translateX(10em);
   background-size: 150% 120%;
   background-position: center;
