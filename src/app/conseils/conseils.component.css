@@ -7,7 +7,7 @@
   height: 50vh;
   width: 100%;
   overflow: hidden;
-  background-image: url("assets/images/ideas4.png");
+  background-image: url("../../assets/images/ideas4.png");
   transform: skewY(3deg);
   background-size: 100% 130%;
   background-position: 10%, 10%;
