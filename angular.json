@@ -13,8 +13,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/devResPro",
-            "baseHref": "/devResPro/",
+            "outputPath": "dist/developper-resaux-professional",
+            "baseHref": "/developper-resaux-professional/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
